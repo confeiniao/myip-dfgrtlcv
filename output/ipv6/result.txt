@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 11:51:26,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-18 11:48:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -215,6 +215,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
 宁夏卫视,https://migu.188766.xyz/?migutoken=13caacff41d2b1065f1a991115bbf760&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=a7d8dc99bf88dfc1a9d61b9798459cee&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+宁夏卫视,https://migu.188766.xyz/?migutoken=fc3bf1bbccab16f7c62fc0926babfa0c&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://migu.188766.xyz/?migutoken=ff97a3f61f143823adfa4eceb7f030be&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
