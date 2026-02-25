@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-24 11:33:44,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-25 11:32:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -259,6 +259,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 新疆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-3.m3u8
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 
 ☘️湖南频道,#genre#
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-13.m3u8
